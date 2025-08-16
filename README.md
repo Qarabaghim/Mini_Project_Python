@@ -13,7 +13,7 @@
 - YouTube Downloader
 - Tic Tac Toe
 - Calculator
-- 
+- Currency Converter
 - Account Bank
 
 ## 🚦 Getting Started
