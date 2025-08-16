@@ -20,5 +20,5 @@
 
 ## To start using the projects in this repository:
 
-- Clone the repo to your local machine: git clone https://github.com/Qarabaghim/project_python.git
+- Clone the repo to your local machine: git clone https://github.com/Qarabaghim/Mini_Project_Python.git
 - Go to the specific project directory and start working on the project using the provided template code.
