@@ -8,8 +8,8 @@ A simple web-based calculator built using **Python** and **Streamlit**. This app
 
 ```bash
 
-git clone https://github.com/Qarabaghim/Mini_Project_Python
-cd 11_Calculator
+git clone <repository-url>
+cd <project-folder>
 ```
 
 2. Install the required dependencies:
