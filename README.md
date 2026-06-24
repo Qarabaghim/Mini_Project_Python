@@ -5,16 +5,15 @@
 
 ## 📁 Projects
 
-- Guess
+- Guess Number
+- Calculator
+- Contacts
+- Tic Tac Toe
 - Rock Paper Scissors
-- Password Generator
+- Timer
 - Happy Number
 - Monty Hall
-- YouTube Downloader
-- Tic Tac Toe
-- Calculator
-- Currency Converter
-- Account Bank
+- Password Generator
 
 ## 🚦 Getting Started
 
