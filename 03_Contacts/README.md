@@ -22,8 +22,8 @@ A simple PhoneBook application built with **Python** and **Streamlit**.
 
 ```bash
 
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Qarabaghim/Mini_Project_Python
+cd 03_Contacts\src
 ```
 
 2. Install dependencies:
