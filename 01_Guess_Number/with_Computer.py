@@ -20,7 +20,7 @@ def start_game():
     print(f"Welcome to the Guess Game! You have {score} guesses left. and Press 'q' to exit the game.")
 
     while True:
-        user_guess = input("Guess a number between 1 and 100: ")
+        user_guess = input("Guess a number between 1 and 100: ").lower()
 
 
         if user_guess == 'q':
@@ -34,7 +34,7 @@ def start_game():
         if user_guess == random_num:
             score += 1
             print(f"wooooooooooow You guessed right! Your score is {score}")
-            new_game = input('new play game!?(y/n)')
+            new_game = input('new play game!?(y/n)').lower()
 
             if new_game == 'y':
                 random_num = random.randint(1, 100)
@@ -64,3 +64,4 @@ def start_game():
 
 if __name__ == '__main__':
     start_game()
+    
